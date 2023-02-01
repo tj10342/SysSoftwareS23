@@ -19,5 +19,5 @@ public class A0p2 {
 				current_line=0;
 			}
 		}
-	}//
-}//
+	}
+}

@@ -1,24 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-// class Student {
-	// private String firstName;
-	// private String lastName;
-	// private int age;
-	// public Student(String fn, String ln, int a) {
-		// firstName=fn;
-		// lastName=ln;
-		// age=a;
-	// }
-	
-	// public String getFirstName() {return firstName;}
-	// public String getLastName() {return lastName;}
-	// public int getAge() {return age;}
-	// public String toString() {
-		// return firstName+" "+lastName+" is "+age+" years old";
-	// }
-// }
-
 public class A0p3 {
 	private String name;
 	private int age;
@@ -52,5 +34,5 @@ public class A0p3 {
 		for (int i = 0; i < slist.length; i++) {
 			System.out.println(slist[i]);
 		}
-	}//main
-}//class
+	}
+}
